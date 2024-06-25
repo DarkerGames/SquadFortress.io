@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 948104952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 636a09f65cc6525a540733223fb7bca7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundless/Zoom/24weapon_barrett.png
+- Assets/AssetBundless/Zoom/65weapon_pm_black.png
+- Assets/AssetBundless/Zoom/59weapon_aa12.png
+- Assets/AssetBundless/Zoom/94weapon_stechkin.png
+- Assets/AssetBundless/Zoom/9weapon_glock_black.png
+- Assets/AssetBundless/Zoom/14weapon_kriss.png
+- Assets/AssetBundless/Zoom/5weapon_ak47.png
+- Assets/AssetBundless/Zoom/12weapon_asval.png
+- Assets/AssetBundless/Zoom/36weapon_l96a1.png
+- Assets/AssetBundless/Zoom/41weapon_p90.png
+- Assets/AssetBundless/Zoom/97weapon_m202.png
+- Assets/AssetBundless/Zoom/2weapon_m3.png
+- Assets/AssetBundless/Zoom/33weapon_auga3.png
+- Assets/AssetBundless/Zoom/10weapon_deagle_black.png
+- Assets/AssetBundless/Zoom/6weapon_svd.png
+- Assets/AssetBundless/Zoom/64weapon_pkp.png
+- Assets/AssetBundless/Zoom/103weapon_stenmk2.png
+- Assets/AssetBundless/Zoom/57weapon_rpg7.png
+- Assets/AssetBundless/Zoom/11weapon_shmel.png
+- Assets/AssetBundless/Zoom/87weapon_qbz95.png
+- Assets/AssetBundless/Zoom/54weapon_beretta_black.png
+- Assets/AssetBundless/Zoom/63weapon_mac10.png
+- Assets/AssetBundless/Zoom/javelin_lock.png
+- Assets/AssetBundless/Zoom/tank_hud.png
+- Assets/AssetBundless/Zoom/102weapon_mg42.png
+- Assets/AssetBundless/Zoom/42weapon_rpk.png
+- Assets/AssetBundless/Zoom/73weapon_zasval.png
+- Assets/AssetBundless/Zoom/85weapon_mauzer.png
+- Assets/AssetBundless/Zoom/93weapon_m700.png
+- Assets/AssetBundless/Zoom/52weapon_kacpdw.png
+- Assets/AssetBundless/Zoom/18weapon_sps12.png
+- Assets/AssetBundless/Zoom/94weapon_stechkin_black.png
+- Assets/AssetBundless/Zoom/72weapon_zaa12.png
+- Assets/AssetBundless/Zoom/16weapon_vsk94.png
+- Assets/AssetBundless/Zoom/78weapon_zsps12.png
+- Assets/AssetBundless/Zoom/34weapon_sg552.png
+- Assets/AssetBundless/Zoom/13weapon_g36c.png
+- Assets/AssetBundless/Zoom/68weapon_ntw20.png
+- Assets/AssetBundless/Zoom/104weapon_m1a1.png
+- Assets/AssetBundless/Zoom/48weapon_mosin.png
+- Assets/AssetBundless/Zoom/39weapon_anaconda_black.png
+- Assets/AssetBundless/Zoom/67weapon_ump45.png
+- Assets/AssetBundless/Zoom/37weapon_nova.png
+- Assets/AssetBundless/Zoom/40weapon_scar.png
+- Assets/AssetBundless/Zoom/50weapon_mp40.png
+- Assets/AssetBundless/Zoom/86weapon_crossbow.png
+- Assets/AssetBundless/Zoom/jeep_zoom.png
+- Assets/AssetBundless/Zoom/19weapon_vintorez.png
+- Assets/AssetBundless/Zoom/100weapon_dpm.png
+- Assets/AssetBundless/Zoom/85weapon_mauzer_black.png
+- Assets/AssetBundless/Zoom/71weapon_javelin.png
+- Assets/AssetBundless/Zoom/25weapon_tmp.png
+- Assets/AssetBundless/Zoom/46weapon_mk1.png
+- Assets/AssetBundless/Zoom/76weapon_zm249.png
+- Assets/AssetBundless/Zoom/35weapon_m14ebr.png
+- Assets/AssetBundless/Zoom/9weapon_glock.png
+- Assets/AssetBundless/Zoom/49weapon_ppsh.png
+- Assets/AssetBundless/Zoom/51weapon_l96a1mod.png
+- Assets/AssetBundless/Zoom/23weapon_usp_black.png
+- Assets/AssetBundless/Zoom/17weapon_m249.png
+- Assets/AssetBundless/Zoom/101weapon_m1924.png
+- Assets/AssetBundless/Zoom/54weapon_beretta.png
+- Assets/AssetBundless/Zoom/74weapon_zfn57_black.png
+- Assets/AssetBundless/Zoom/60weapon_fn57_black.png
+- Assets/AssetBundless/Zoom/4weapon_mp5.png
+- Assets/AssetBundless/Zoom/53weapon_famas.png
+- Assets/AssetBundless/Zoom/preZoom.png
+- Assets/AssetBundless/Zoom/75weapon_zkord.png
+- Assets/AssetBundless/Zoom/61weapon_fs2000.png
+- Assets/AssetBundless/Zoom/60weapon_fn57.png
+- Assets/AssetBundless/Zoom/66weapon_tar21.png
+- Assets/AssetBundless/Zoom/65weapon_pm.png
+- Assets/AssetBundless/Zoom/15weapon_m4a1.png
+- Assets/AssetBundless/Zoom/10weapon_deagle.png
+- Assets/AssetBundless/Zoom/23weapon_usp.png
+- Assets/AssetBundless/Zoom/92weapon_aksu.png
+- Assets/AssetBundless/Zoom/3weapon_m14.png
+- Assets/AssetBundless/Zoom/38weapon_kord.png
+- Assets/AssetBundless/Zoom/39weapon_anaconda.png
+- Assets/AssetBundless/Zoom/62weapon_l85.png
+- Assets/AssetBundless/Zoom/74weapon_zfn57.png
+- Assets/AssetBundless/Zoom/45weapon_sr25.png
+- Assets/AssetBundless/Zoom/69weapon_vintorez_desert.png
+- Assets/AssetBundless/Zoom/105weapon_type99.png
+Dependencies: []
