@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4184245117
+CRC: 2274274322
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dccfe52f58b27548d78a4758e11eaeb1
+    Hash: 596ac3680bfedcf2f883bb529e1625a4
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
@@ -13,43 +13,43 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundless/TankSkins/tank_heavy_default_b.png
-- Assets/AssetBundless/TankSkins/tank_medium_wood_b.png
-- Assets/AssetBundless/TankSkins/tank_light_wood_b.png
-- Assets/AssetBundless/TankSkins/tank_light_hex_r.png
-- Assets/AssetBundless/TankSkins/tank_medium_mc_r.png
-- Assets/AssetBundless/TankSkins/tank_light_hex_b.png
-- Assets/AssetBundless/TankSkins/tank_medium_desert_r.png
-- Assets/AssetBundless/TankSkins/tank_heavy_default.png
-- Assets/AssetBundless/TankSkins/tank_light_mc_b.png
-- Assets/AssetBundless/TankSkins/tank_medium_default_b.png
-- Assets/AssetBundless/TankSkins/tank_medium_default_r.png
-- Assets/AssetBundless/TankSkins/tank_light_default_b.png
-- Assets/AssetBundless/TankSkins/tank_medium_tiger_r.png
-- Assets/AssetBundless/TankSkins/tank_light_desert_b.png
-- Assets/AssetBundless/TankSkins/tank_heavy_desert_r.png
-- Assets/AssetBundless/TankSkins/tank_medium_hex_r.png
-- Assets/AssetBundless/TankSkins/tank_medium_desert_b.png
-- Assets/AssetBundless/TankSkins/tank_heavy_default_r.png
-- Assets/AssetBundless/TankSkins/tank_heavy_mc_r.png
-- Assets/AssetBundless/TankSkins/tank_light_default.png
-- Assets/AssetBundless/TankSkins/tank_heavy_tiger_r.png
-- Assets/AssetBundless/TankSkins/tank_heavy_hex_b.png
-- Assets/AssetBundless/TankSkins/tank_medium_default.png
-- Assets/AssetBundless/TankSkins/tank_heavy_hex_r.png
-- Assets/AssetBundless/TankSkins/tank_heavy_desert_b.png
-- Assets/AssetBundless/TankSkins/tank_light_tiger_r.png
-- Assets/AssetBundless/TankSkins/tank_light_default_r.png
-- Assets/AssetBundless/TankSkins/tank_light_tiger_b.png
-- Assets/AssetBundless/TankSkins/tank_light_desert_r.png
-- Assets/AssetBundless/TankSkins/tank_medium_wood_r.png
-- Assets/AssetBundless/TankSkins/tank_heavy_wood_r.png
-- Assets/AssetBundless/TankSkins/tank_heavy_wood_b.png
-- Assets/AssetBundless/TankSkins/tank_heavy_tiger_b.png
-- Assets/AssetBundless/TankSkins/tank_medium_tiger_b.png
-- Assets/AssetBundless/TankSkins/tank_light_mc_r.png
-- Assets/AssetBundless/TankSkins/tank_medium_mc_b.png
-- Assets/AssetBundless/TankSkins/tank_heavy_mc_b.png
-- Assets/AssetBundless/TankSkins/tank_medium_hex_b.png
-- Assets/AssetBundless/TankSkins/tank_light_wood_r.png
+- Assets/AssetBundles/TankSkins/tank_heavy_default_b.png
+- Assets/AssetBundles/TankSkins/tank_medium_wood_b.png
+- Assets/AssetBundles/TankSkins/tank_light_wood_b.png
+- Assets/AssetBundles/TankSkins/tank_light_hex_r.png
+- Assets/AssetBundles/TankSkins/tank_medium_mc_r.png
+- Assets/AssetBundles/TankSkins/tank_light_hex_b.png
+- Assets/AssetBundles/TankSkins/tank_medium_desert_r.png
+- Assets/AssetBundles/TankSkins/tank_heavy_default.png
+- Assets/AssetBundles/TankSkins/tank_light_mc_b.png
+- Assets/AssetBundles/TankSkins/tank_medium_default_b.png
+- Assets/AssetBundles/TankSkins/tank_medium_default_r.png
+- Assets/AssetBundles/TankSkins/tank_light_default_b.png
+- Assets/AssetBundles/TankSkins/tank_medium_tiger_r.png
+- Assets/AssetBundles/TankSkins/tank_light_desert_b.png
+- Assets/AssetBundles/TankSkins/tank_heavy_desert_r.png
+- Assets/AssetBundles/TankSkins/tank_medium_hex_r.png
+- Assets/AssetBundles/TankSkins/tank_medium_desert_b.png
+- Assets/AssetBundles/TankSkins/tank_heavy_default_r.png
+- Assets/AssetBundles/TankSkins/tank_heavy_mc_r.png
+- Assets/AssetBundles/TankSkins/tank_light_default.png
+- Assets/AssetBundles/TankSkins/tank_heavy_tiger_r.png
+- Assets/AssetBundles/TankSkins/tank_heavy_hex_b.png
+- Assets/AssetBundles/TankSkins/tank_medium_default.png
+- Assets/AssetBundles/TankSkins/tank_heavy_hex_r.png
+- Assets/AssetBundles/TankSkins/tank_heavy_desert_b.png
+- Assets/AssetBundles/TankSkins/tank_light_tiger_r.png
+- Assets/AssetBundles/TankSkins/tank_light_default_r.png
+- Assets/AssetBundles/TankSkins/tank_light_tiger_b.png
+- Assets/AssetBundles/TankSkins/tank_light_desert_r.png
+- Assets/AssetBundles/TankSkins/tank_medium_wood_r.png
+- Assets/AssetBundles/TankSkins/tank_heavy_wood_r.png
+- Assets/AssetBundles/TankSkins/tank_heavy_wood_b.png
+- Assets/AssetBundles/TankSkins/tank_heavy_tiger_b.png
+- Assets/AssetBundles/TankSkins/tank_medium_tiger_b.png
+- Assets/AssetBundles/TankSkins/tank_light_mc_r.png
+- Assets/AssetBundles/TankSkins/tank_medium_mc_b.png
+- Assets/AssetBundles/TankSkins/tank_heavy_mc_b.png
+- Assets/AssetBundles/TankSkins/tank_medium_hex_b.png
+- Assets/AssetBundles/TankSkins/tank_light_wood_r.png
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1020198844
+CRC: 3725854594
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 43ec5bbb9ddfad44478e7eaa39f5e074
+    Hash: 0dbf91717003319c3a89cd844f883f1e
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
@@ -13,11 +13,11 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundless/MainTheme/layer_back.png
-- Assets/AssetBundless/MainTheme/layer_load_rus.png
-- Assets/AssetBundless/MainTheme/layer_load.png
-- Assets/AssetBundless/MainTheme/layer_wall.png
-- Assets/AssetBundless/MainTheme/layer_player.png
-- Assets/AssetBundless/MainTheme/layer_load_eng.png
-- Assets/AssetBundless/MainTheme/layer_front.png
+- Assets/AssetBundles/MainTheme/layer_back.png
+- Assets/AssetBundles/MainTheme/layer_load_rus.png
+- Assets/AssetBundles/MainTheme/layer_load.png
+- Assets/AssetBundles/MainTheme/layer_wall.png
+- Assets/AssetBundles/MainTheme/layer_player.png
+- Assets/AssetBundles/MainTheme/layer_load_eng.png
+- Assets/AssetBundles/MainTheme/layer_front.png
 Dependencies: []
