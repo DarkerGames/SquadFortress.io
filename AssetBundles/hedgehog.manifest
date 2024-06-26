@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3924879354
+CRC: 394803523
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f131ece0ca96322bb8ffc208aaa83fbe
+    Hash: baaa4addc9173d0706a730318b40211c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c4fe1fdcbb1a331074c17958100faf9a
@@ -27,8 +27,8 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundless/Hedgehog/trooperboat.obj
-- Assets/AssetBundless/Hedgehog/hedgehog.obj
-- Assets/AssetBundless/Hedgehog/hedgehog_diffuse.png
-- Assets/AssetBundless/Hedgehog/trooperboat_texture.png
+- Assets/AssetBundles/Hedgehog/trooperboat.obj
+- Assets/AssetBundles/Hedgehog/hedgehog.obj
+- Assets/AssetBundles/Hedgehog/hedgehog_diffuse.png
+- Assets/AssetBundles/Hedgehog/trooperboat_texture.png
 Dependencies: []

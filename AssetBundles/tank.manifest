@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2954653084
+CRC: 3041463501
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 99ddab810a1edbda9fdcccee4b218264
+    Hash: 3a9489821b5c06b72d0529721d9c1a53
   TypeTreeHash:
     serializedVersion: 2
     Hash: b6dae9bf883811db75e2ce4181836738
@@ -31,44 +31,44 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_044.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_009.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_025.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_043.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_002.obj
-- Assets/AssetBundless/Tank/FarExplosionB.ogg
-- Assets/AssetBundless/Tank/DtankM.fbx
-- Assets/AssetBundless/Tank/fx_smoke.png
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_007.obj
-- Assets/AssetBundless/Tank/Barrel.obj
-- Assets/AssetBundless/Tank/neutral.png
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_016.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_029.obj
-- Assets/AssetBundless/Tank/NearExplosionB.ogg
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_005.obj
-- Assets/AssetBundless/Tank/Smoke.png
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_021.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_030.obj
-- Assets/AssetBundless/Tank/destroyed.png
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_037.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_001.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_040.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_024.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_010.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_004.obj
-- Assets/AssetBundless/Tank/tankM.fbx
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_012.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_028.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_036.obj
-- Assets/AssetBundless/Tank/blockade_tank_neutral.png
-- Assets/AssetBundless/Tank/Fireball.png
-- Assets/AssetBundless/Tank/tank_base.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_026.obj
-- Assets/AssetBundless/Tank/NearExplosionA.ogg
-- Assets/AssetBundless/Tank/Turret.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_047.obj
-- Assets/AssetBundless/Tank/FarExplosionA.ogg
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_019.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_045.obj
-- Assets/AssetBundless/Tank/blockade_tank_default_frag_018.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_044.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_009.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_025.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_043.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_002.obj
+- Assets/AssetBundles/Tank/FarExplosionB.ogg
+- Assets/AssetBundles/Tank/DtankM.fbx
+- Assets/AssetBundles/Tank/fx_smoke.png
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_007.obj
+- Assets/AssetBundles/Tank/Barrel.obj
+- Assets/AssetBundles/Tank/neutral.png
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_016.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_029.obj
+- Assets/AssetBundles/Tank/NearExplosionB.ogg
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_005.obj
+- Assets/AssetBundles/Tank/Smoke.png
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_021.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_030.obj
+- Assets/AssetBundles/Tank/destroyed.png
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_037.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_001.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_040.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_024.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_010.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_004.obj
+- Assets/AssetBundles/Tank/tankM.fbx
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_012.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_028.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_036.obj
+- Assets/AssetBundles/Tank/blockade_tank_neutral.png
+- Assets/AssetBundles/Tank/Fireball.png
+- Assets/AssetBundles/Tank/tank_base.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_026.obj
+- Assets/AssetBundles/Tank/NearExplosionA.ogg
+- Assets/AssetBundles/Tank/Turret.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_047.obj
+- Assets/AssetBundles/Tank/FarExplosionA.ogg
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_019.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_045.obj
+- Assets/AssetBundles/Tank/blockade_tank_default_frag_018.obj
 Dependencies: []

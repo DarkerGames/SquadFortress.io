@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2820099722
+CRC: 2340881926
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7ef7eb3ab455e51e814eebddf569574
+    Hash: 515d08bcbef49e689e158cc0ff3d5ab3
   TypeTreeHash:
     serializedVersion: 2
     Hash: c4fe1fdcbb1a331074c17958100faf9a
@@ -27,8 +27,8 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundless/Boat/fence_diffuse.png
-- Assets/AssetBundless/Boat/trooperboat.obj
-- Assets/AssetBundless/Boat/fence.obj
-- Assets/AssetBundless/Boat/trooperboat_texture.png
+- Assets/AssetBundles/Boat/fence_diffuse.png
+- Assets/AssetBundles/Boat/trooperboat.obj
+- Assets/AssetBundles/Boat/fence.obj
+- Assets/AssetBundles/Boat/trooperboat_texture.png
 Dependencies: []
