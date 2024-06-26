@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2122825954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 347e00ffe8175598af28c8e009d78b6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4fe1fdcbb1a331074c17958100faf9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Vehicles/tank_mg.png
+- Assets/AssetBundles/Vehicles/tank_machine_gun #21.obj
+- Assets/AssetBundles/Vehicles/blockade_tank_artillery001.obj
+- Assets/AssetBundles/Vehicles/tank_medium_tex.png
+- Assets/AssetBundles/Vehicles/tank_machine_gun.obj
+- Assets/AssetBundles/Vehicles/tank_light_destroyed.png
+- Assets/AssetBundles/Vehicles/Box01.obj
+- Assets/AssetBundles/Vehicles/tank_heavy_destroyed.png
+- Assets/AssetBundles/Vehicles/tank_light_tex.png
+- Assets/AssetBundles/Vehicles/tank_medium_destroyed.png
+- Assets/AssetBundles/Vehicles/tank_heavy_tex.png
+- Assets/AssetBundles/Vehicles/blockade_tank_default.obj
+- Assets/AssetBundles/Vehicles/blockade_tank_default #25.obj
+- Assets/AssetBundles/Vehicles/fx_smoke.png
+- Assets/AssetBundles/Vehicles/MuzzleFlash01.png
+Dependencies: []

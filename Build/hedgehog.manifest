@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 941179467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 729185793498f610f3fb05b08a83c750
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4fe1fdcbb1a331074c17958100faf9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Hedgehog/trooperboat.obj
+- Assets/AssetBundles/Hedgehog/hedgehog.obj
+- Assets/AssetBundles/Hedgehog/hedgehog_diffuse.png
+- Assets/AssetBundles/Hedgehog/trooperboat_texture.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3005626294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28cda0e193c0381d94ccc177529acc35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/WeaponsXML/weapons.xml
+Dependencies: []

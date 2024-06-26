@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 1245724895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fda3b6ac57e9ec0ecd2e5d7b9553b13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36091c0d51dfd71926bc2c72d557fb05
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_016.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_018.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_005.obj
+- Assets/AssetBundles/Dtank2/Smoke.png
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_044.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_030.obj
+- Assets/AssetBundles/Dtank2/DtankM.fbx
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_010.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_047.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_040.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_043.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_024.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_001.obj
+- Assets/AssetBundles/Dtank2/FarExplosionB.wav
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_025.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_021.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_002.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_029.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_028.obj
+- Assets/AssetBundles/Dtank2/NearExplosionA.wav
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_009.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_026.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_019.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_045.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_004.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_037.obj
+- Assets/AssetBundles/Dtank2/Fireball.png
+- Assets/AssetBundles/Dtank2/destroyed.png
+- Assets/AssetBundles/Dtank2/FarExplosionA.wav
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_036.obj
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_012.obj
+- Assets/AssetBundles/Dtank2/NearExplosionB.wav
+- Assets/AssetBundles/Dtank2/blockade_tank_default_frag_007.obj
+Dependencies: []
