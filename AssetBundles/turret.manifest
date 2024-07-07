@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3182270733
+CRC: 4039487348
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 77e322498842645811bed2d72bc4c46d
+    Hash: f6f8a65bc86486991006f3a8a2ea78c8
   TypeTreeHash:
     serializedVersion: 2
     Hash: c4fe1fdcbb1a331074c17958100faf9a
@@ -27,6 +27,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundles/Turret/turret.obj
-- Assets/AssetBundles/Turret/turret_diffuse.png
+- Assets/AssetBundless/Turret/turret.obj
+- Assets/AssetBundless/Turret/turret_diffuse.png
 Dependencies: []
