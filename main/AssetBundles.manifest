@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3236528830
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: boat
+      Dependencies: {}
+    Info_1:
+      Name: dtank2
+      Dependencies: {}
+    Info_2:
+      Name: fence
+      Dependencies: {}
+    Info_3:
+      Name: hedgehog
+      Dependencies: {}
+    Info_4:
+      Name: maintheme
+      Dependencies: {}
+    Info_5:
+      Name: playerskins
+      Dependencies: {}
+    Info_6:
+      Name: skinsxml
+      Dependencies: {}
+    Info_7:
+      Name: sounds
+      Dependencies: {}
+    Info_8:
+      Name: tank
+      Dependencies: {}
+    Info_9:
+      Name: tankskins
+      Dependencies: {}
+    Info_10:
+      Name: turret
+      Dependencies: {}
+    Info_11:
+      Name: vehicles
+      Dependencies: {}
+    Info_12:
+      Name: vehiclesxml
+      Dependencies: {}
+    Info_13:
+      Name: weaponsxml
+      Dependencies: {}
+    Info_14:
+      Name: zoom
+      Dependencies: {}
